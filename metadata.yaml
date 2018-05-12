@@ -1,0 +1,27 @@
+_repo: The-Ethnology-of-the-British-Islands_30931
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Latham, R. G. (Robert Gordon)
+    alias: Latham, Robert Gordon
+    birthdate: 1812
+    deathdate: 1888
+    gutenberg_agent_id: '33334'
+    url: http://www.gutenberg.org/2009/agents/33334
+description: ''
+gutenberg_issued: '2010-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Ethnology -- Great Britain'
+title: The Ethnology of the British Islands
+url: http://www.gutenberg.org/ebooks/30931
